@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Thiago Matos Tertuliano, tenho 20 anos e sou natural de São Caetano do Sul - SP. Concluí o ensino médio em EME Alcina Dantas Feijão, cursando atualmente tecnólogo em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e criação de conteúdo compartilho meu conhecimento e minha rotina através do meu canal no YouTube ([Foguetada](https://www.youtube.com/@foguetada_thigas))", e também no Instagram, com o perfil chamado ([@tthiagoficial_](https://www.instagram.com/tthiagoficial_/))".
+Me chamo Thiago Matos Tertuliano, tenho 20 anos e sou natural de São Caetano do Sul - SP. Concluí o ensino médio em EME Alcina Dantas Feijão, cursando atualmente curso tecnólogo em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e criação de conteúdo compartilho meu conhecimento e minha rotina através do meu canal no YouTube ([Foguetada](https://www.youtube.com/@foguetada_thigas))", e também no Instagram, com o perfil chamado ([@tthiagoficial_](https://www.instagram.com/tthiagoficial_/))".
 
 <p align="left">
     <a href="https://www.youtube.com/@foguetada_thigas?sub_confirmation=1">
