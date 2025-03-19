@@ -33,6 +33,13 @@ Me chamo Thiago Matos Tertuliano, tenho 20 anos e sou natural de São Caetano do
             src="https://custom-icon-badges.demolab.com/github/followers/Thiago-Tertuliano?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/thiago-tertuliano/">
+    <img 
+        alt="LinkedIn" 
+        title="Conecte-se comigo no LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=005E93" 
+    />
+</a>
 </p>
 
 ---
