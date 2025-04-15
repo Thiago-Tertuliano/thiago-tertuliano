@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Matos Tertuliano
+# 👨🏻‍💻​ Thiago Matos Tertuliano
 
 **`Desenvolvedora FullStack`**
 
