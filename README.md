@@ -201,8 +201,8 @@ Me chamo Thiago Matos Tertuliano, tenho 20 anos e sou natural de São Caetano do
 
 <img 
     align="left"
-    alt="NextJs"
-    title="NextJs"
+    alt="GO"
+    title="GO"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
