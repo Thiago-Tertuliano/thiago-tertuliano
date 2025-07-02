@@ -5,6 +5,7 @@
 👋 Olá! Meu nome é Thiago Matos Tertuliano, tenho 20 anos e sou natural de São Caetano do Sul – SP.
 🎓 Formado no ensino médio pela EME Alcina Dantas Feijão e atualmente estudante de Análise e Desenvolvimento de Sistemas.
 💻 Apaixonado por tecnologia, programação e criação de conteúdo, compartilho meu aprendizado, projetos e rotina nos meus canais:
+
 📹 YouTube: ([Foguetada](https://www.youtube.com/@foguetada_thigas))
 📸 Instagram: ([@tthiagoficial_](https://www.instagram.com/tthiagoficial_/))
 
