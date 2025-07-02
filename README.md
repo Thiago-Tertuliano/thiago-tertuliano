@@ -7,7 +7,7 @@
 💻 Apaixonado por tecnologia, programação e criação de conteúdo, compartilho meu aprendizado, projetos e rotina nos meus canais:
 
 📹 YouTube: ([Foguetada](https://www.youtube.com/@foguetada_thigas))
-📸 Instagram: ([@tthiagoficial_](https://www.instagram.com/tthiagoficial_/))
+<br>📸 Instagram: ([@tthiagoficial_](https://www.instagram.com/tthiagoficial_/))
 
 🔍 Sempre em busca de evolução, gosto de explorar novas linguagens, ferramentas e boas práticas de desenvolvimento. Meu objetivo é crescer como desenvolvedor e ajudar outros a fazerem o mesmo através do conteúdo que produzo.
 
