@@ -1,6 +1,6 @@
 # 👨🏻‍💻​ Thiago Matos Tertuliano
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 👋 Olá! Meu nome é Thiago Matos Tertuliano, tenho 20 anos e sou natural de São Caetano do Sul – SP.
 🎓 Formado no ensino médio pela EME Alcina Dantas Feijão e atualmente estudante de Análise e Desenvolvimento de Sistemas.
