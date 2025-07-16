@@ -2,19 +2,19 @@
 
 ###
 
-<h6 align="left">Desenvolvedor em formação, dedicado a transformar ideias em soluções modernas, funcionais e com propósito.<br>Atualmente focado em Vue.js e Golang, venho aplicando cada aprendizado em projetos práticos, fortalecendo minha jornada na Graduação em Análise e Desenvolvimento de Software com consistência, curiosidade e paixão por tecnologia.</h6>
+<h6 align="center">Desenvolvedor em formação, dedicado a transformar ideias em soluções modernas, funcionais e com propósito.<br>Atualmente focado em Vue.js e Golang, venho aplicando cada aprendizado em projetos práticos, fortalecendo minha jornada na Graduação em Análise e Desenvolvimento de Software com consistência, curiosidade e paixão por tecnologia.</h6>
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
+<h2 align="center">Sobre Mim</h2>
 
 ###
 
-<p align="left">🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas<br>📚 Estudando Tailwind CSS, Vue.js, React e desenvolvimento fullstack<br>🌍 Apaixonado por explorar novas tecnologias e transformar desafios em soluções de software eficientes e inovadoras<br>💡 Motivado pela busca constante de aprendizado e aplicação prática em projetos reais<br>🚀 Comprometido em evoluir como desenvolvedor e contribuir para a comunidade tech com conhecimento e criatividade<br>🎥 Criador de conteúdo focado em tecnologia, fitness e lifestyle, compartilhando dicas e inspirando pessoas a crescerem em diversas áreas da vida</p>
+<p align="center">🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas<br>📚 Estudando Tailwind CSS, Vue.js, React e desenvolvimento fullstack<br>🌍 Apaixonado por explorar novas tecnologias e transformar desafios em soluções de software eficientes e inovadoras<br>💡 Motivado pela busca constante de aprendizado e aplicação prática em projetos reais<br>🚀 Comprometido em evoluir como desenvolvedor e contribuir para a comunidade tech com conhecimento e criatividade<br>🎥 Criador de conteúdo focado em tecnologia, fitness e lifestyle, compartilhando dicas e inspirando pessoas a crescerem em diversas áreas da vida</p>
 
 ###
 
-<h2 align="left">Github Stats</h2>
+<h2 align="center">Github Stats</h2>
 
 ###
 
@@ -31,11 +31,11 @@
 
 ###
 
-<h2 align="left">📚​Meus Aprendizados</h2>
+<h2 align="center">📚​Meus Aprendizados</h2>
 
 ###
 
-<p align="left">Organizo meus estudos e projetos em alguns repositórios do meu Github, eles tem o nomes, por exemplo: "Estudos - GO".<br>Lá você encontra códigos, anotações, desafios resolvidos e projetos que acompanham minha jornada de aprendizado contínuo.<br><br>Manter esse espaço me ajuda a visualizar minha evolução e, ao mesmo tempo, compartilhar conhecimento para apoiar outros desenvolvedores que estão começando.</p>
+<p align="center">Organizo meus estudos e projetos em alguns repositórios do meu Github, eles tem o nomes, por exemplo: "Estudos - GO".<br>Lá você encontra códigos, anotações, desafios resolvidos e projetos que acompanham minha jornada de aprendizado contínuo.<br><br>Manter esse espaço me ajuda a visualizar minha evolução e, ao mesmo tempo, compartilhar conhecimento para apoiar outros desenvolvedores que estão começando.</p>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">Linguagens Front-End 🎨​</h3>
+<h3 align="center">Linguagens Front-End 🎨​</h3>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="left">Linguagens Back-End ⚙️​</h3>
+<h3 align="center">Linguagens Back-End ⚙️​</h3>
 
 ###
 
@@ -109,7 +109,7 @@
 
 ###
 
-<h3 align="left">Softwares de Desenvolvimento</h3>
+<h3 align="center">Softwares de Desenvolvimento</h3>
 
 ###
 
@@ -127,7 +127,7 @@
 
 ###
 
-<h3 align="left">Ferramentas de Desenvolvimento ⚒️​</h3>
+<h3 align="center">Ferramentas de Desenvolvimento ⚒️​</h3>
 
 ###
 
@@ -145,15 +145,15 @@
 
 ###
 
-<p align="left">Sou Dev jr, e atualmente estou cursando tecnólogo Análise e Desenvolvimento de Sistemas<br><br>Tenho focado meus estudos em JavaScript, especialmente em React.js para front-end e Node.js para back-end. Também estou explorando tecnologias como Tailwind CSS, Vue.js, PostgreSQL e Docker, aplicando esses conhecimentos em projetos pessoais e acadêmicos que compõem meu portfólio.<br><br>Acredito que aprender fazendo é o melhor caminho, por isso transformo teoria em prática sempre que possível 🚀<br><br>Vamos nos conectar? Me envie um e-mail, siga meu LinkedIn ou acompanhe meu conteúdo nas redes sociais! 💌✨</p>
+<p align="center">Sou Dev jr, e atualmente estou cursando tecnólogo Análise e Desenvolvimento de Sistemas<br><br>Tenho focado meus estudos em JavaScript, especialmente em React.js para front-end e Node.js para back-end. Também estou explorando tecnologias como Tailwind CSS, Vue.js, PostgreSQL e Docker, aplicando esses conhecimentos em projetos pessoais e acadêmicos que compõem meu portfólio.<br><br>Acredito que aprender fazendo é o melhor caminho, por isso transformo teoria em prática sempre que possível 🚀<br><br>Vamos nos conectar? Me envie um e-mail, siga meu LinkedIn ou acompanhe meu conteúdo nas redes sociais! 💌✨</p>
 
 ###
 
-<h2 align="left">Redes Sociais</h2>
+<h2 align="center">Redes Sociais</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/thiago-tertuliano" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
@@ -176,7 +176,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thiago-Tertuliano.Thiago-Tertuliano&left_color=aqua&right_color=rebeccapurple" alt="contador de visitantes"  />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Thiago-Tertuliano.Thiago-Tertuliano&left_color=aqua&right_color=rebeccapurple" alt="contador de visitantes"  />
 
 ###
 
