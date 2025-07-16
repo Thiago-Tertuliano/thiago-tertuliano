@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">Meus Aprendizados</h2>
+<h2 align="left">📚​Meus Aprendizados</h2>
 
 ###
 
