@@ -1,4 +1,4 @@
-<h2 align="left">🌌​Olá, me chamo Thiago!</h2>
+<h2 align="center">🌌​Olá, me chamo Thiago!</h2>
 
 ###
 
@@ -173,10 +173,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Thiago-Tertuliano.Thiago-Tertuliano&left_color=aqua&right_color=rebeccapurple" alt="contador de visitantes"  />
 
 ###
 
