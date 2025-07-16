@@ -30,8 +30,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiago-Tertuliano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="estatísticas do github"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Tertuliano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="linguagens mais usadas"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiago-Tertuliano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="205" alt="estatísticas do github"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Tertuliano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dark&hide_border=false&exclude_repo=Thiago-Tertuliano,Thiago-Tertuliano.github.io" height="200" alt="linguagens mais usadas"  />
 </div>
 
 ###
