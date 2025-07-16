@@ -1,257 +1,214 @@
-# 👨🏻‍💻​ Thiago Matos Tertuliano
+<h2 align="left">🌌​Olá, me chamo Thiago!</h2>
 
-**`Desenvolvedor FullStack`**
+###
 
-👋 Olá! Meu nome é Thiago Matos Tertuliano, tenho 20 anos e sou natural de São Caetano do Sul – SP.
-🎓 Formado no ensino médio pela EME Alcina Dantas Feijão e atualmente estudante de Análise e Desenvolvimento de Sistemas.
-💻 Apaixonado por tecnologia, programação e criação de conteúdo, compartilho meu aprendizado, projetos e rotina nos meus canais:
+<h6 align="left">Desenvolvedor em formação, dedicado a transformar ideias em soluções modernas, funcionais e com propósito.<br>Atualmente focado em Vue.js e Golang, venho aplicando cada aprendizado em projetos práticos, fortalecendo minha jornada na Graduação em Análise e Desenvolvimento de Software com consistência, curiosidade e paixão por tecnologia.</h6>
 
-📹 YouTube: ([Foguetada](https://www.youtube.com/@foguetada_thigas))
-<br>📸 Instagram: ([@tthiagoficial_](https://www.instagram.com/tthiagoficial_/))
+###
 
-🔍 Sempre em busca de evolução, gosto de explorar novas linguagens, ferramentas e boas práticas de desenvolvimento. Meu objetivo é crescer como desenvolvedor e ajudar outros a fazerem o mesmo através do conteúdo que produzo.
+<h2 align="left">Sobre Mim</h2>
 
+###
 
+<p align="left">🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas<br>📚 Estudando Tailwind CSS, Vue.js, React e desenvolvimento fullstack<br>🌍 Apaixonado por explorar novas tecnologias e transformar desafios em soluções de software eficientes e inovadoras<br>💡 Motivado pela busca constante de aprendizado e aplicação prática em projetos reais<br>🚀 Comprometido em evoluir como desenvolvedor e contribuir para a comunidade tech com conhecimento e criatividade<br>🎥 Criador de conteúdo focado em tecnologia, fitness e lifestyle, compartilhando dicas e inspirando pessoas a crescerem em diversas áreas da vida</p>
 
-<p align="left">
-    <a href="https://www.youtube.com/@foguetada_thigas?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCYbz6nv2oMZ3S_QPfZYO6UQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@foguetada_thigas">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCYbz6nv2oMZ3S_QPfZYO6UQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Thiago-Tertuliano?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Thiago-Tertuliano?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Thiago-Tertuliano?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Thiago-Tertuliano?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-   <a href="https://www.linkedin.com/in/thiago-tertuliano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+###
 
----
+<h2 align="left">Github Stats</h2>
 
-### 🤖 Linguagens e Tecnologias
+###
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Firebase" 
-    title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"   
-/>
-<img 
-    align="left" 
-    alt="Node.Js"
-    title="Node.Js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"           
-/>
-<img 
-    align="left" 
-    alt="MICROSOFT SQL SERVER" 
-    title="MICROSOFT SQL SERVER"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"            
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"           
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiago-Tertuliano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="estatísticas do github"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Tertuliano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="linguagens mais usadas"  />
+</div>
 
-<img 
-    align="left"
-    alt="Figma"
-    title="Figma"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
+###
 
-<img 
-    align="left"
-    alt="C++"
-    title="C++"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-/>
+<br clear="both">
 
-<img 
-    align="left"
-    alt="C"
-    title="C"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-/>
+<img src="https://raw.githubusercontent.com/Thiago-Tertuliano/Thiago-Tertuliano/output/snake.svg" alt="animação do snake" />
 
-<img 
-    align="left"
-    alt="Bootstrap"
-    title="Bootstrap"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-/>
+###
 
-<img 
-    align="left"
-    alt="Sass"
-    title="Sass"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-/>
+<h2 align="left">Meus Aprendizados</h2>
 
-<img 
-    align="left"
-    alt="NextJs"
-    title="NextJs"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-/>
+###
 
-<img 
-    align="left"
-    alt="GO"
-    title="GO"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-/>
+<p align="left">Organizo meus estudos e projetos em alguns repositórios do meu Github, eles tem o nomes, por exemplo: "Estudos - GO".<br>Lá você encontra códigos, anotações, desafios resolvidos e projetos que acompanham minha jornada de aprendizado contínuo.<br><br>Manter esse espaço me ajuda a visualizar minha evolução e, ao mesmo tempo, compartilhar conhecimento para apoiar outros desenvolvedores que estão começando.</p>
 
-<img 
-    align="left"
-    alt="Vue.js"
-    title="Vue.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-/>
+###
 
+<h2 align="left">Tecnologias & Ferramentas</h2>
 
-<br/>
-<br/>
+###
 
-### Eu estou estudando... 🧩
-<!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+<h3 align="left">Linguagens Front-End 🎨​</h3>
 
+###
 
-### 📊 Estatísticas
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="25" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="25" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo"  />
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Thiago-Tertuliano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+###
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Tertuliano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<h3 align="left">Linguagens Back-End ⚙️​</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="25" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="25" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://go.dev/images/go-logo-blue.svg" height="25" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+</div>
+
+###
+
+<h3 align="left">Softwares de Desenvolvimento</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="25" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="25" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="25" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="25" alt="markdown logo"  />
+</div>
+
+###
+
+<h3 align="left">Ferramentas de Desenvolvimento ⚒️​</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="25" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="25" alt="canva logo"  />
+</div>
+
+###
+
+<p align="left">Sou Dev jr, e atualmente estou cursando tecnólogo Análise e Desenvolvimento de Sistemas<br><br>Tenho focado meus estudos em JavaScript, especialmente em React.js para front-end e Node.js para back-end. Também estou explorando tecnologias como Tailwind CSS, Vue.js, PostgreSQL e Docker, aplicando esses conhecimentos em projetos pessoais e acadêmicos que compõem meu portfólio.<br><br>Acredito que aprender fazendo é o melhor caminho, por isso transformo teoria em prática sempre que possível 🚀<br><br>Vamos nos conectar? Me envie um e-mail, siga meu LinkedIn ou acompanhe meu conteúdo nas redes sociais! 💌✨</p>
+
+###
+
+<h2 align="left">Redes Sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/thiago-tertuliano" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/qkFwnmE6yH" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCYbz6nv2oMZ3S_QPfZYO6UQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/tthiagoficial_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/foguetada" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="37" height="25" alt="twitch logo"  />
+  </a>
+  <a href="mailto:thiagomatostertuliano@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Thiago-Tertuliano.Thiago-Tertuliano&left_color=aqua&right_color=rebeccapurple" alt="contador de visitantes"  />
+
+###
+
+<!-- Medium Posts - Comentado até ter uma conta Medium ativa -->
+<!--
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thiagomatosdev/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@thiagomatosdev/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thiagomatosdev/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@thiagomatosdev/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thiagomatosdev/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@thiagomatosdev/2" alt="Medium post 3"  />
+  </a>
+</div>
+-->
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/22c4b6kifzqzgm26z4sxzmyiq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4b6kifzqzgm26z4sxzmyiq&count=5&unique=true" alt="músicas tocadas recentemente no spotify"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Thiago-Tertuliano&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="sequência de contribuições"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Thiago-Tertuliano&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="troféus do github"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-Tertuliano&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="gráfico de atividade"  />
+</div>
+
+###
