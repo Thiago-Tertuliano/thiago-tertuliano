@@ -166,6 +166,22 @@
 
 ###
 
+<h2 align="center">💼 Portfólio</h2>
+
+###
+
+<p align="center">🎨 Conheça meus projetos, experiências e habilidades em desenvolvimento web e mobile.<br>🚀 Aplicações modernas criadas com React, Vue.js, Node.js e outras tecnologias que estudo.<br>💡 Cada projeto representa um aprendizado e uma evolução na minha jornada como desenvolvedor.</p>
+
+###
+
+<div align="center">
+  <a href="https://portfoliothiagomtertu.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20Portfólio-Visualizar%20Projetos-purple?style=for-the-badge&logo=netlify&logoColor=white&color=7c3aed&labelColor=8b5cf6" alt="Visualizar Portfólio" />
+  </a>
+</div>
+
+###
+
 <h2 align="center">Redes Sociais</h2>
 
 ###
