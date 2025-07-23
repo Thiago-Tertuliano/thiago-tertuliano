@@ -210,6 +210,30 @@
 
 ###
 
+<h2 align="center">🚀 Foguetada News</h2>
+
+###
+
+<p align="center">📧 Newsletter onde compartilho de forma direta, leve e sem enrolação o que estou aprendendo e vivendo no mundo da tecnologia e das finanças.<br>💡 Conteúdo autoral, sem spam, sem anúncios - apenas conhecimento real e prático.<br>🎯 Para devs, criadores, curiosos e qualquer pessoa que curte tecnologia, código, planejamento financeiro e uma boa ideia no meio do caos.</p>
+
+###
+
+<h3 align="center">✅ O que você vai encontrar:</h3>
+
+###
+
+<p align="center">🖥️ Bastidores reais de projetos em tecnologia e desenvolvimento<br>💰 Dicas práticas sobre finanças pessoais e organização de grana<br>🚀 Reflexões sobre carreira, produtividade e inovação<br>🤝 Comunidade para comentar, trocar ideia e participar junto</p>
+
+###
+
+<div align="center">
+  <a href="https://foguetada.substack.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Foguetada%20News-Inscreva%20se%20gratuitamente-blue?style=for-the-badge&logo=mail.ru&logoColor=white&color=1f2937&labelColor=3b82f6" alt="Inscreva-se na Foguetada News" />
+  </a>
+</div>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/22c4b6kifzqzgm26z4sxzmyiq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4b6kifzqzgm26z4sxzmyiq&count=5&unique=true" alt="músicas tocadas recentemente no spotify"  />
