@@ -21,7 +21,7 @@
 
 ###
 
-<p align="center">🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas<br>📚 Estudando Tailwind CSS, Vue.js, React e desenvolvimento fullstack<br>🌍 Apaixonado por explorar novas tecnologias e transformar desafios em soluções de software eficientes e inovadoras<br>💡 Motivado pela busca constante de aprendizado e aplicação prática em projetos reais<br>🚀 Comprometido em evoluir como desenvolvedor e contribuir para a comunidade tech com conhecimento e criatividade<br>🎥 Criador de conteúdo focado em tecnologia, fitness e lifestyle, compartilhando dicas e inspirando pessoas a crescerem em diversas áreas da vida</p>
+<p align="center">🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas<br>📚 Estudando desenvolvimento fullstack<br>🌍 Apaixonado por explorar novas tecnologias e transformar desafios em soluções de software eficientes e inovadoras<br>💡 Motivado pela busca constante de aprendizado e aplicação prática em projetos reais<br>🚀 Comprometido em evoluir como desenvolvedor e contribuir para a comunidade tech com conhecimento e criatividade<br>🎥 Criador de conteúdo focado em tecnologia, fitness e lifestyle, compartilhando dicas e inspirando pessoas a crescerem em diversas áreas da vida</p>
 
 ###
 
