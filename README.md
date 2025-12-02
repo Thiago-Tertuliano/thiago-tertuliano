@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat&logo=github" alt="Status: Ativo" />
   <img src="https://img.shields.io/badge/Freelance-Sim-blue?style=flat&logo=linkedin" alt="Disponível para Freelance" />
-  <a href="https://portfoliothiagomtertu.netlify.app/" target="_blank">
+  <a href="https://thiagot-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Pronto-green?style=flat&logo=vercel" alt="Portfolio" />
   </a>
 </div>
