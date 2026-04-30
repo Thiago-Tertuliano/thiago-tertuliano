@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">Desenvolvedor em formação, dedicado a transformar ideias em soluções modernas, funcionais e com propósito.<br>Atualmente focado em Golang, venho aplicando meus conhecimentos em projetos atuais do mercado, fortalecendo minha jornada na Graduação em Análise e Desenvolvimento de Software com consistência, curiosidade e paixão por tecnologia.</h6>
+<h6 align="center">Desenvolvedor backend · Go e TypeScript em produção · ETL, APIs REST, PostgreSQL · Análise e Desenvolvimento de Sistemas · Disponível para oportunidades
 
 ###
 
