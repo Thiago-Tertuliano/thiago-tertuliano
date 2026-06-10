@@ -5,7 +5,7 @@
 **Desenvolvedor backend · Go em produção · TypeScript · PostgreSQL**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thiago--tertuliano-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiago-tertuliano/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20projetos-green?style=flat&logo=vercel)](https://portfoliothiagomtertu.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20projetos-green?style=flat&logo=vercel)](https://thiagot-portfolio.netlify.app/)
 [![Foguetada News](https://img.shields.io/badge/Newsletter-Foguetada%20News-orange?style=flat&logo=substack)](https://foguetada.substack.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-@foguetada__thigas-red?style=flat&logo=youtube)](https://www.youtube.com/@foguetada_thigas)
 
